@@ -1,3 +1,11 @@
+//
+//  Operator.cpp
+//  FM Shmynth
+//
+//  Created by Isaac on 11.13.20.
+//
+//
+
 #include "Operator.h"
 #include "OperatorManager.h"
 

@@ -3,7 +3,7 @@
 //  SpaceBass
 //
 //  Created by Martin on 08.04.14.
-//
+//	Changes by Isaac on 12.09.20
 //
 
 #ifndef __SpaceBass__Oscillator__

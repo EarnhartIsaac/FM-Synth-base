@@ -33,7 +33,7 @@
   const int PLUG_TYPE_IDS_AS[2] = {'EFA1', 'EFA2'}; // AudioSuite
 #endif
 
-#define PLUG_MFR_PT "MartinFinke\nMartinFinke\nAcme"
+#define PLUG_MFR_PT "IsaacEarnhart\nIsaacEarnhart\nAcme"
 #define PLUG_NAME_PT "SpaceBass\nIPEF"
 #define PLUG_TYPE_PT "Effect"
 #define PLUG_DOES_AUDIOSUITE 1
@@ -91,7 +91,7 @@ instrument determined by PLUG _IS _INST
 #endif
 
 // vst3 stuff
-#define MFR_URL "www.olilarkin.co.uk"
+#define MFR_URL ""
 #define MFR_EMAIL "spam@me.com"
 #define EFFECT_TYPE_VST3 "Instrument|Synth"
 
